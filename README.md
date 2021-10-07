@@ -20,5 +20,35 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 📝  I regularly write articles on [https://medium.com/@priyanshdesai2510](https://medium.com/@priyanshdesai2510)
  
 
-⚡ In my free time, I love to play tabel Tennis  <img src="pics/chess.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
+⚡ In my free time, I love to play tabel Tennis  <img src="pics/tt.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
 . </h4><br>
+
+![priyansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priyanshd2510&theme=dracula)
+
+
+
+## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<p align="left">
+<div class="footer" id="top3">
+  <center> 
+   <a href="https://www.linkedin.com/in/priyansh-desai-065187182/" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
+   <a href="https://github.com/priyanshd2510" class="pics"> <img src="pics/github.svg" height="36vh"></center></a>
+    <a href="https://twitter.com/home?lang=en" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
+    <a href="https://www.instagram.com/p_poke/" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=priyanshdesai2510@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
+  
+  </div>
+</p>
+<hr/>
+<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=Priyanshd2510&show_icons=true&theme=radical&count_private=true%27/>
+</p>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshd2510&count_private=true&theme=radical" alt="Priyanshd2510"/>
+ <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshd2510&count_private=true&theme=radical&layout=compact" alt="Priyanshd2510" />
+ 
+ <p align="center"> 
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=Priyanshd2510&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  </a>
+</div><hr>
