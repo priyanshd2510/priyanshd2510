@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm priyansh desai</h1>
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jhey.
+</p>
+<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshd2510&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshd2510" /> </p>
