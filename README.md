@@ -9,15 +9,15 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" /> 
 
-👉 I’m currently working on  <strong>collage mangemen application</strong>  <br>
-👉 <strong>I’m currently learning ****
+👉 I’m currently working on  <strong>college management application</strong>  <br>
+👉 <strong>I’m currently learning 
 </strong> of <strong>amazon web services</strong>  <br>
-👉 All of my projects are available at [https://priyanshd2510.github.io/portfolio/](https://priyanshd2510.github.io/portfolio/)
+👉 All of my projects are available at  <a href="https://priyanshd2510.github.io/portfolio/" class="pics"><img src="pics/p.png" height="20vh">  </a><br>
 👉 Know about my experiences (https://drive.google.com/drive/u/0/folders/1BLcxNCN2RMC0ZGiOsteHtm3cMIVcyrag)
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
-📝  I regularly write articles on  <a href="https://medium.com/@priyanshdesai2510" class="pics"><img src="pics/medium.png" height="36vh">  </a>(https://medium.com/@priyanshdesai2510)
+📝  I regularly write articles on  <a href="https://medium.com/@priyanshdesai2510" class="pics"><img src="pics/medium.png" height="36vh">  </a>
  
 
 ⚡ In my free time, I love to play tabel Tennis  <img src="pics/tt.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
@@ -41,6 +41,8 @@ I love to spend time at <strong>GitHub</strong> :octocat:
   </a>
 </div><hr>
 
+
+<img src="pics/trial.svg" alt="stacks" width = "100%"/>
 
 
 
