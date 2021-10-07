@@ -26,6 +26,27 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 ![priyansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priyanshd2510&theme=dracula)
 
 
+<p>
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Priyanshd2510&show_icons=true&theme=radical&count_private=true%27"/>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshd2510&count_private=true&theme=radical" alt="Priyanshd2510"/>
+</p>
+
+ <p align="center"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshd2510&count_private=true&theme=radical&layout=compact" alt="Priyanshd2510" /></p>
+ 
+ <p align="center"> 
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=Priyanshd2510&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  </a>
+</div><hr>
+
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/Priyanshd2510)
+
+
 
 ## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
@@ -38,17 +59,6 @@ I love to spend time at <strong>GitHub</strong> :octocat:
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=priyanshdesai2510@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
   
   </div>
-</p>
+
 <hr/>
-<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=Priyanshd2510&show_icons=true&theme=radical&count_private=true%27/>
-</p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshd2510&count_private=true&theme=radical" alt="Priyanshd2510"/>
- <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshd2510&count_private=true&theme=radical&layout=compact" alt="Priyanshd2510" />
- 
- <p align="center"> 
-<div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Priyanshd2510&theme=monokai&row=1&no-frame=true&no-bg=true/">
-  </a>
-</div><hr>
+
