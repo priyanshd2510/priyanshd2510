@@ -13,11 +13,11 @@
 👉 <strong>I’m currently learning ****
 </strong> of <strong>amazon web services</strong>  <br>
 👉 All of my projects are available at [https://priyanshd2510.github.io/portfolio/](https://priyanshd2510.github.io/portfolio/)
-👉 Know about my experiences [https://drive.google.com/file/d/1ExbjHbFuX2AW9bZB7XME0mMKAAgabvka/view?usp=sharing](https://drive.google.com/file/d/1ExbjHbFuX2AW9bZB7XME0mMKAAgabvka/view?usp=sharing)
+👉 Know about my experiences (https://drive.google.com/drive/u/0/folders/1BLcxNCN2RMC0ZGiOsteHtm3cMIVcyrag)
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
-📝  I regularly write articles on [https://medium.com/@priyanshdesai2510](https://medium.com/@priyanshdesai2510)
+📝  I regularly write articles on  <a href="https://medium.com/@priyanshdesai2510" class="pics"><img src="pics/medium.png" height="36vh">  </a>(https://medium.com/@priyanshdesai2510)
  
 
 ⚡ In my free time, I love to play tabel Tennis  <img src="pics/tt.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
