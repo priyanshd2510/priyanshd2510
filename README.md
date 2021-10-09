@@ -23,9 +23,10 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 ⚡ In my free time, I love to play tabel Tennis  <img src="pics/tt.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
 . </h4><br>
 
-![priyansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Priyanshd2510&theme=dracula)
+![snake gif](https://github.com/Priyanshd2510/Priyanshd2510/blob/output/github-contribution-grid-snake.gif)
 
-#start game
+
+
 Welcome to my Github profile!
 We're playing
 [The Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur).
@@ -355,7 +356,7 @@ What would you like to do?
 
 
 
-#end the game
+
 <p>
 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Priyanshd2510&show_icons=true&theme=radical&count_private=true%27"/>
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshd2510&count_private=true&theme=radical" alt="Priyanshd2510"/>
